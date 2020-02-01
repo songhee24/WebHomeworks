@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:#474747 url("https://line25.com/wp-content/uploads/2009/letterpress/demo/bg.png");
+    min-height: 100vh;
+    /*background: #031321;*/
+    font-family: consolas;
+}
